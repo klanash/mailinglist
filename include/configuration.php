@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
+$host = 'michaeljw01.mysql.db';
 $dbname = 'mailinglist';
-$user = 'root';
-$password = 'root';
+$user = 'michaeljw01';
+$password = 'ptg758L1';
 
 try
 {
