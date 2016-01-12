@@ -1,0 +1,101 @@
+html{
+
+	font-size: 100%;
+
+}
+
+body{
+
+	width: 100%;
+
+
+}
+
+.container{
+
+	width: 100%;
+
+}
+
+.container_menu{
+
+
+	float: right;
+	padding: 10px;
+	list-style: none;
+
+
+}
+
+.container_menu a{
+
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+
+
+}
+
+
+
+.container_inscription{
+
+	width: 100%;
+	padding: 200px 0;
+	text-align: center;
+
+}
+
+form{
+
+	width: 50%;
+	margin: 0 auto;
+
+
+
+}
+
+form .email label{
+
+	display: block;
+	padding: 20px 0 5px 0;
+
+}
+
+
+form .email input{
+
+	padding: 10px 20px;
+
+}
+
+form .email input:focus{
+
+ 	outline: none;
+ 	border: 1px solid #555;
+
+}
+
+.error{
+
+	display: block;
+	margin-top: 20px;
+
+}
+
+
+form .email input[type="submit"]{
+
+	padding: 13px;
+	border:none;
+	color: white;
+
+}
+
+.button{
+
+	margin-top: 30px;
+
+}
+
+
